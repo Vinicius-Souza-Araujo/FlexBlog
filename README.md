@@ -1,6 +1,6 @@
 # FlexBlog  
 
-O **FlexBlog** é um projeto simples desenvolvido para praticar e aprimorar o uso do **CSS Flexbox**. Ele consiste em uma única página HTML estilizada com CSS, focada em explorar a disposição de elementos utilizando as propriedades do Flexbox.  
+O **[FlexBlog](https://vinicius-souza-araujo.github.io/FlexBlog/)** é um projeto simples desenvolvido para praticar e aprimorar o uso do **CSS Flexbox**. Ele consiste em uma única página HTML estilizada com CSS, focada em explorar a disposição de elementos utilizando as propriedades do Flexbox.   
 
 ## 💡 Objetivo  
 O principal objetivo deste projeto é fortalecer o entendimento sobre **layout responsivo** e **posicionamento de elementos** com Flexbox, facilitando a construção de interfaces modernas e adaptáveis.  
